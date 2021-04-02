@@ -5,16 +5,27 @@ h1{
 
 body{
    margin:0;
+   text-align: center;
+   background-color: #dbf6e9;
 }
 .top{
-    background-color: #dbf6e9;
-   
+    padding-top: 100px;
+    position: relative;
+    
+
 }
+
+
+
+.Buttom-cloud{
+    position: absolute;
+}
+.Top-cloud{
+   
+    margin-left: 450px;
+}
+
 .span1{
-    font-size: 33px;
-    font-weight:bold;
    
-}
-span{
-    background-color:  #dbf6e9;
+   text-decoration: underline;
 }
