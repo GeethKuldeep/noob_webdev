@@ -6,13 +6,21 @@ h1{
 body{
    margin:0;
    text-align: center;
-   background-color: #dbf6e9;
+  
 }
 .top{
     padding-top: 100px;
     position: relative;
-    
+    background-color: #dbf6e9;
 
+}
+.DP{
+    width: 250px;
+    height: 250px;
+}
+.flutter{
+    width: 150px;
+    height: 150px;
 }
 
 
