@@ -1,0 +1,28 @@
+
+h1{
+    margin:0;
+}
+
+body{
+   margin:0;
+}
+.top{
+    background-color: #dbf6e9;
+    border:solid 5px;
+    width: 200px;
+    height:200px;
+}
+.middle{
+    margin-left: 210px;
+    background-color: red;
+    border:solid 10px;
+    width: 200px;
+    height:200px;
+}
+.end{
+    background-color: blue;
+    margin-left: 430px;
+    border:solid 5px;
+    width: 200px;
+    height:200px;
+}
