@@ -8,21 +8,13 @@ body{
 }
 .top{
     background-color: #dbf6e9;
-    border:solid 5px;
-    width: 200px;
-    height:200px;
+   
 }
-.middle{
-    margin-left: 210px;
-    background-color: red;
-    border:solid 10px;
-    width: 200px;
-    height:200px;
+.span1{
+    font-size: 33px;
+    font-weight:bold;
+   
 }
-.end{
-    background-color: blue;
-    margin-left: 430px;
-    border:solid 5px;
-    width: 200px;
-    height:200px;
+span{
+    background-color:  #dbf6e9;
 }
